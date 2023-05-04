@@ -1,0 +1,22 @@
+ 
+ *{
+margin: 0;
+padding: 0%;
+}
+*main{
+    width: 100%;
+    background-image:url(pic/n,png); 
+    background-position:"center";
+    background-size:cover;
+    height: 100vh;
+ position: relative;
+ font-family:sans-serif;
+}
+*navbar{
+    width: 86%;
+    display: flex;
+    margin: auto;
+    padding: 15px 0%;
+    align-items:center;
+    justify-content:space-between;
+}
